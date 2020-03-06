@@ -1,4 +1,6 @@
-# Vue.js starter
+# Roasty
+
+Beauty UI for your Vue.js Apps
 
 - Vue.js
 - Vue Router
